@@ -1,0 +1,28 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "workbench.iconTheme": "vscode-icons",
+  "bladeFormatter.format.enabled": true,
+  "workbench.settings.editor": "json",
+  "editor.inlineSuggest.enabled": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.accessibilitySupport": "on",
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on",
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "expand",
+  "editor.bracketPairColorization.enabled": true,
+  "workbench.colorTheme": "Bearded Theme Anthracite",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[php]": {
+    "editor.defaultFormatter": "kokororin.vscode-phpfmt"
+  },
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": true
+  }
+}
